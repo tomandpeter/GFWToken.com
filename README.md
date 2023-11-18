@@ -40,4 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For more information, visit [GFW Token official website](LINK_TO_WEBSITE) or contact us at [contact@example.com](mailto:contact@example.com).
+For more information, visit [GFW Token official website](https://gfwtoken.com) or contact us at [service@gfwtoken.com](mailto:service@gfwtoken.com).
+
